@@ -17,7 +17,8 @@ With BlockQuiz, you can:
 
 ---
 
-## 💡 What It Does
+## 💡 What It Does<img width="1920" height="1080" alt="Screenshot 2025-10-29 140612" src="https://github.com/user-attachments/assets/796d7a4d-63d6-4d7a-9e7c-0bd718e66087" />
+
 
 1. **The Owner (Quiz Creator)** deploys the contract and adds quiz questions with answers and rewards.  
 2. **Players** interact with the smart contract by submitting their answers directly through the blockchain.  
