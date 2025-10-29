@@ -43,5 +43,5 @@ With BlockQuiz, you can:
 
 - **Network:** Sepolia Testnet  
 - **Deployment Transaction:** [View on Celoscan](https://sepolia.celoscan.io/tx/0x07af4c1498e00ac6709b5f4419ac3e442a4dfffe68f2948ca03a54ee40b4f0a7)  
-- **Smart Contract Address:** `XXX`  
+- **Smart Contract Address:** `https://sepolia.celoscan.io/tx/0x07af4c1498e00ac6709b5f4419ac3e442a4dfffe68f2948ca03a54ee40b4f0a7`  
 - **View on Etherscan:** [https://etherscan.io/address/XXX](https://etherscan.io/address/XXX)
