@@ -49,9 +49,9 @@ With BlockQuiz, you can:
 
  
   ## 🙌 Acknowledgments
-Celo Blockchain for providing eco-friendly infrastructure
-Remix IDE for easy smart contract testing
-Blockscout for transparent transaction viewing
+https://celo.org/ for providing eco-friendly infrastructure
+https://remix.ethereum.org/ for easy smart contract testing
+ https://blockscout.com/  for transparent transaction viewing
 
 
 
