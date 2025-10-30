@@ -47,13 +47,6 @@ With BlockQuiz, you can:
 - **View on Etherscan:** [https://etherscan.io/address/XXX](https://etherscan.io/address/XXX)
 
 
- 
-  ## 🙌 Acknowledgments
-https://celo.org/ for providing eco-friendly infrastructure
-https://remix.ethereum.org/ for easy smart contract testing
- https://blockscout.com/  for transparent transaction viewing
-
-
 
 
   ## Made With ❤️ by Sourik Ghosh
